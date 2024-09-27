@@ -10,8 +10,7 @@ UI/UX Designer | Designing since 2017 | Specialized in UI Design & Design System
 ---
 #### 🎨 Check out my [Portfolio website](https://mdaniel.framer.website/) 👈
 
-<a href="https://app.daily.dev/dnyeldevl"><img src="https://api.daily.dev/devcards/v2/QbyGmzzN4GgrqO8bOvmvX.png?type=wide&r=a2a" width="652" alt="Daniel Mabalot's Dev Card"/></a>
-
+<a href="https://app.daily.dev/dnyeldev"><img src="https://api.daily.dev/devcards/v2/QbyGmzzN4GgrqO8bOvmvX.png?type=wide&r=crr" width="652" alt="Daniel Mabalot's Dev Card"/></a>
 
 ---
 #### Let's Connect
